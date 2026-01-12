@@ -6,7 +6,7 @@ console.log(valueInNumber);
 score = "33abc";
 valueInNumber = Number(score); // not pure number
 console.log(valueInNumber);
-// in numer:-
+// in number:-
 // "33"=> 33, "33abc"=> NaN, true=> 1, null=> 0, undefined=NaN
 
 // in boolean
